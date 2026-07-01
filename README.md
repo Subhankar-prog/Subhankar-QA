@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-![Logo](Photo.png)
 
 # Subhankar Portfolio Showcase 💻
+![Logo](Photo.png)
+
 
 Welcome to Subhankar's Portfolio Showcase!
 A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using React.JS.
@@ -66,6 +66,5 @@ git clone https://github.com/Saboo24/portofolio12.git
 Made with ❤️ by **Subhankar Panda**
 
 
-=======
 # Subhankar-QA-
->>>>>>> 552ee27d48f20e5ed5bea658d1c87b666d1cd5d8
+

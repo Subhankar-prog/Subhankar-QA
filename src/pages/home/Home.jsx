@@ -1,5 +1,5 @@
 import "./Home.css";
-import Me2 from "../../assets/images/Me2.png";
+import Me2 from "../../assets/images/Me22.png";
 import CvPreview from "../../components/CvPreview/CvPreview";
 
 function Home() {
