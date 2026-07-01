@@ -10,6 +10,7 @@ A modern and elegant personal portfolio website built to present my projects, sk
 ## Live Demo 🚀
 
 You can view the live website here: [Live Demo]
+https://subhankarqa.vercel.app/
 
 ---
 
@@ -49,7 +50,7 @@ You can view the live website here: [Live Demo]
 
  **Clone the repository:**
 ```bash
-git clone https://github.com/Saboo24/portofolio12.git
+git clone https://github.com/Subhankar-prog/Subhankar-QA.git
 ```
  ---
 
