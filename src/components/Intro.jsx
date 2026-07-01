@@ -44,7 +44,10 @@ function Intro({ onFinish }) {
       <div className="portal"></div>
 
       {/* LOGO */}
-      <h1 className="logo">Hii, This is Subhankar</h1>
+      <h1 className="logo">
+    <span className="logo-top">Hii,</span>
+    <span className="logo-bottom">This is Subhankar</span>
+  </h1>
 
       {/* TEXT */}
       <h1 className="main-text">

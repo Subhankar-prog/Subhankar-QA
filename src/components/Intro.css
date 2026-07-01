@@ -50,6 +50,34 @@
   transition: 0.5s;
 }
 
+/* Stack logo text */
+.logo span {
+  display: inline;
+}
+.logo-top {
+  margin-right: 0.5rem; /* space between words on desktop */
+}
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .logo {
+    font-size: 24px;
+  }
+  .logo span {
+    display: block;
+  }
+  .logo-top {
+    margin-right: 0;
+    margin-bottom: 0.2em;
+  }
+  /* Ensure the main animated text wraps nicely on small screens */
+  .main-text {
+    font-size: 24px; /* already reduced */
+    white-space: normal;
+    word-break: break-word;
+    text-align: center;
+  }
+}
+
 .phase-2 .logo {
   opacity: 1;
   transform: scale(1.5);
