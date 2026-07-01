@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Logo](Photo.png)
 
 # Subhankar Portfolio Showcase 💻
@@ -65,3 +66,6 @@ git clone https://github.com/Saboo24/portofolio12.git
 Made with ❤️ by **Subhankar Panda**
 
 
+=======
+# Subhankar-QA-
+>>>>>>> 552ee27d48f20e5ed5bea658d1c87b666d1cd5d8
