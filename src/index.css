@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+
+  background: 
+    linear-gradient(to bottom, rgba(0,0,0,0.6), #020617),
+    linear-gradient(
+      to right,
+      #002C3B,
+      #00506A,
+      #007AA0,
+      #00A7DA,
+      #6BD2FF,
+      #E0F5FF
+    );
+
+  color: white;
+}
